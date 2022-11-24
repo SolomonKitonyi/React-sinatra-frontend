@@ -10,7 +10,7 @@ In the project directory, you can run:
 ## To view the deploy version visit
 https://react-sinatra-frontend.herokuapp.com/
 ## To view the project backend api visit
-
+https://github.com/SolomonKitonyi/Sinatraa-project
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
